@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\bin\Debug\SkypeCore.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\bin\Debug\SkypeCore.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\bin\Debug\SQLite.Designer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\bin\Debug\SQLite.Designer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\bin\Debug\System.Data.SQLite.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\obj\Debug\SkypeCore.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\obj\Debug\SkypeCore.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\SkypeNotifier\SkypeCore\bin\Debug\nunit.framework.dll
+C:\src\SkypeApi\SkypeCore\bin\Debug\SkypeCore.dll
+C:\src\SkypeApi\SkypeCore\bin\Debug\SkypeCore.pdb
+C:\src\SkypeApi\SkypeCore\obj\Debug\SkypeCore.dll
+C:\src\SkypeApi\SkypeCore\obj\Debug\SkypeCore.pdb

@@ -1,0 +1,8 @@
+C:\src\SkypeApi\SkypeCore\bin\Release\SkypeCore.dll
+C:\src\SkypeApi\SkypeCore\bin\Release\SkypeCore.pdb
+C:\src\SkypeApi\SkypeCore\obj\Release\SkypeCore.dll
+C:\src\SkypeApi\SkypeCore\obj\Release\SkypeCore.pdb
+C:\src\SkypeSearch\SkypeCore\bin\Release\SkypeCore.dll
+C:\src\SkypeSearch\SkypeCore\bin\Release\SkypeCore.pdb
+C:\src\SkypeSearch\SkypeCore\obj\Release\SkypeCore.dll
+C:\src\SkypeSearch\SkypeCore\obj\Release\SkypeCore.pdb

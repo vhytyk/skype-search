@@ -1,0 +1,11 @@
+C:\src\SkypeApi\SkypeSearch\bin\Debug\SkypeSearch.exe
+C:\src\SkypeApi\SkypeSearch\bin\Debug\SkypeSearch.pdb
+C:\src\SkypeApi\SkypeSearch\bin\Debug\SkypeCore.dll
+C:\src\SkypeApi\SkypeSearch\bin\Debug\SkypeCore.pdb
+C:\src\SkypeApi\SkypeSearch\obj\x86\Debug\SkypeSearch.csprojResolveAssemblyReference.cache
+C:\src\SkypeApi\SkypeSearch\obj\x86\Debug\SkypeSearch.Properties.Resources.resources
+C:\src\SkypeApi\SkypeSearch\obj\x86\Debug\SkypeSearch.csproj.GenerateResource.Cache
+C:\src\SkypeApi\SkypeSearch\obj\x86\Debug\SkypeSearch.exe
+C:\src\SkypeApi\SkypeSearch\obj\x86\Debug\SkypeSearch.pdb
+C:\src\SkypeApi\SkypeSearch\bin\Debug\sqlite3.dll
+C:\src\SkypeApi\SkypeSearch\obj\x86\Debug\SkypeSearch.SkypeSearchForm.resources
