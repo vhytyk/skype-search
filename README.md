@@ -18,7 +18,7 @@ Source code is here: https://github.com/vhytyk/skypesearch
 
 Installation:
 =====
-Download installation http://goo.gl/1YqUCY
-Run it and choose destination directory
-After extraction Skype Search will start automatically.
-Enjoy.
+- Download installation http://goo.gl/1YqUCY
+- Run it and choose destination directory
+- After extraction Skype Search will start automatically.
+- Enjoy.
