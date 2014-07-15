@@ -20,6 +20,7 @@ Source code is here: https://github.com/vhytyk/skypesearch
 
 Installation:
 =====
+- First, you need .net 4.0 installed on your machine. 
 - Download installation http://goo.gl/1YqUCY
 - Run it and choose destination directory
 - After extraction Skype Search will start automatically.
