@@ -1,6 +1,6 @@
 About
 =====
-All of you know that search in Skype is not an easy and sometimes annoying thing. So, here is the tool that makes you life easier with Skype search. 
+All of you know that search in Skype is not an easy and sometimes annoying thing. So, here is the tool that should make your life easier with Skype search. 
 Skype Search - desktop utility that allows you to search content through all Skype messages (all chats and private conversations) in very convenient manner. No 3d party tools, No SQL queries, No hardcore options, No running Skype. User friendly simple interface.
 
 ![Skype Search](https://raw.githubusercontent.com/vhytyk/skypesearch/master/SkypeSearch/skype_search.png "Skype Search")
